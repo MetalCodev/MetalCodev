@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MetalCodev
-- 👀 I’m interested in Android development with Kotlin! 
+- 👀 I’m interested in Programming and Software development! 
 - 🌱 I’m currently learning and getting better to make maybe something great!
 - 📫 How to reach me
 - Email: metalcodev@gmail.com
